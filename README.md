@@ -11,7 +11,7 @@ Niech w grafie skierowanym G wagi łączy oznaczają dostępną przepustowość 
 
 ## Autorzy:
 * Wojciech Świstak
-* Maciej Walanus
+* Maciej Walanus (https://github.com/maw136)
 
 ## Pomoc:
 Składnia *Markdown* tutaj: https://daringfireball.net/projects/markdown/
